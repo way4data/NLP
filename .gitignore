@@ -1,0 +1,5 @@
+node_modules/
+*.b64
+package*.json
+conv.js
+week*/
